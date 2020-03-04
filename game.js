@@ -15,6 +15,13 @@ d3.select("body")
    {
     d3.select(this)
     .attr("src", "RedX.png")
-})
+}
+   )
+
+d3.select ("h4")
+.append ("img")
+.attr ("src","wally.jfif")
+
+
 
 
